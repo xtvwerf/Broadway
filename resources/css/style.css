@@ -1,0 +1,56 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+
+#top {
+  background-image: url(../images/building.png);
+}
+
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+
+.nav {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+
+p {
+  font-size: 14px;
+}
+
+
+.designed {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/building.png);
+}
+
+
+#footnote {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
